@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zerobank-automation" />
+        <module name="KT_B2CucumberSelenium" />
       </profile>
     </annotationProcessing>
   </component>

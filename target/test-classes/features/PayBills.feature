@@ -22,7 +22,7 @@ Feature: Pay Bills
     When User enters payment amount "<Amount>"
     And  User enters date "<Date>"
     And User clicks Pay Button
-    Then "Please fill out this field message!" alert message displayed
+    Then "Please fill out this field message!" message should be displayed
     Examples:
       | Amount | Date |
       |        |      |
