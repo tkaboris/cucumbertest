@@ -57,3 +57,4 @@ passWord=password
 
 NOTE: After entering the URL, entering user credentials and clicking the Signin button, you should again go to the url
 http://zero.webappsecurity.com/bank/accountsummary.html
+lets
